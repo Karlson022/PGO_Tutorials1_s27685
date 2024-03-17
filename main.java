@@ -4,7 +4,7 @@ public class main {
     public static void main(String[] args) {
 
     Scanner scan = new Scanner(System.in); 
-    System.out.println("Enter username");
+    System.out.println("Enter number");
     int userInput = scan.nextInt();   
 
     if(userInput > 0){
